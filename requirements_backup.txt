@@ -1,0 +1,9 @@
+django==3.2
+simpleui
+djangorestframework
+djangorestframework-api-key
+django-jsoneditor
+psycopg2
+requests
+pandas
+scipy
